@@ -11,6 +11,12 @@
     "onchange",
     "onpropertychange"
   ],
+  "keywords": [
+    "attribute",
+    "MutationObserver",
+    "DOMAttrModified",
+    "onpropertychange"
+  ],
   "author": {
     "name": "Selvakumar Arumugam",
     "url": "http://meetselva.github.com/attrchange/"
